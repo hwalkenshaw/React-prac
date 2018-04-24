@@ -31,7 +31,7 @@ class Greeting extends Component{
 }
 
 
-class Login extends Component{
+class Login extends Component {
 
 
   return
